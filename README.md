@@ -18,7 +18,7 @@ Tarefas:
 1. Fale um pouco sobre sua equipe (tamanho, produtos, atividades principais)
 2. Como é organizada a forma de trabalho de sua equipe? (Ex: Sprints com Scrum)
 3. Qual a flexibidade de sua equipe? Como você gerencia este fator? (Ex: recomendo home offices com horários-chave nos quais tenho certeza que todos os membros da equipe estão em horário de trabalho)
-4. Como você direciona diferentes perfis de profissionais para diferente
+4. Como você direciona diferentes perfis de profissionais para diferentes tarefas
 
 #### sub-tema: metas
 1. No dia-a-dia sabemos que a quantidade de tarefas muitas vezes sobrepõem a visão das metas do time. O que você faz para manter o time engajado com as metas da área?
